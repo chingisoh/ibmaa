@@ -9,7 +9,10 @@ nav:
     - Explorations Home: interactive_explorations/index.md
     - Geometry:
         - Geometry Explorations Home: interactive_explorations/geom/index.md
-        - Sine Graph: interactive_explorations/geom/sine_cos.md
+        - Trigonometric Graphs: 
+          - Trigonometric Graphs: interactive_explorations/geom/trig.md
+          - The Sine Graph: interactive_explorations/geom/sine_cos.md
+          - The Cosine Graph: interactive_explorations/geom/cosine.md
   - IB Topical Questions and Solutions: 
     - Home: ib_topical/index.md
     - SL MAA: 
