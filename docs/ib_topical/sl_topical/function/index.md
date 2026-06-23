@@ -1,4 +1,4 @@
 # Work in progress
 
-[Basic Questions](function/basic.md)
+[Basic Questions](basic.md)
 
