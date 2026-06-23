@@ -1,11 +1,16 @@
 function toggleSolution(id, btn) {
-  const solution = document.getElementById(id);
+  const el = document.getElementById(id);
 
-  if (solution.style.display === "none" || solution.style.display === "") {
-    solution.style.display = "block";
+  if (!el) {
+    console.log("Element not found:", id);
+    return;
+  }
+
+  if (el.style.display === "none" || el.style.display === "") {
+    el.style.display = "block";
     btn.textContent = "Hide Solution";
   } else {
-    solution.style.display = "none";
+    el.style.display = "none";
     btn.textContent = "Show Solution";
   }
 }
