@@ -27,3 +27,18 @@ width="100%"
 height="500"
 style="border: 1px solid #ccc"
 frameborder="0"></iframe>
+
+When you are done exploring, click on the button below to see how the graph of \(y=\sin x\) is traced as \(x\) varies.
+
+
+<button class="ib-button hint-button"
+        onclick="toggleHint('desmos1', this, 'Show Questions', 'Hide Questions')">
+  Click here to see the animated graph.
+</button>
+
+<div id="desmos1" style="display:none; margin-top:10px;">
+
+<iframe src="https://www.desmos.com/calculator/ypmhxqxaok?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+  
+</div>
+
