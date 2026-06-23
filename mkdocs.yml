@@ -10,7 +10,22 @@ nav:
     - Geometry:
         - Home: interactive_explorations/geom/index.md
         - Trigonometric Graphs from the Unit Circle: interactive_explorations/geom/trig_graph_circle.md
-  - IB Topical Questions and Solutions: ib_topical/index.md
+  - IB Topical Questions and Solutions: 
+    - Home: ib_topical/index.md
+    - SL MAA: 
+      - Home: ib_topical/sl_topical/index.md
+      - Number and Algebra: ib_topical/sl_topical/number/index.md
+      - Functions and Graphs: ib_topical/sl_topical/function/index.md
+      - Geometry and Trigonometry: ib_topical/sl_topical/geom/index.md
+      - Calculus: ib_topical/sl_topical/calc/index.md
+      - Probability and Statistics: ib_topical/sl_topical/stats/index.md
+    - HL MAA: 
+      - Home: ib_topical/hl_topical/index.md
+      - Number and Algebra: ib_topical/hl_topical/number/index.md
+      - Functions and Graphs: ib_topical/hl_topical/function/index.md
+      - Geometry and Trigonometry: ib_topical/hl_topical/geom/index.md
+      - Calculus: ib_topical/hl_topical/calc/index.md
+      - Probability and Statistics: ib_topical/hl_topical/stats/index.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
@@ -18,3 +33,8 @@ markdown_extensions:
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - js/mathjax-config.js
+  - javascripts/extra.js
+
+extra_css:
+  - stylesheets/extra.css
