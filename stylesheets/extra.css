@@ -1,0 +1,23 @@
+.ib-button {
+  background-color: #2d6cdf;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  font-size: 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: 0.2s;
+}
+
+.ib-button:hover {
+  background-color: #1f4fa8;
+}
+
+.solution {
+  display: none;
+  background: #f7f9fc;
+  border-left: 4px solid #2d6cdf;
+  padding: 10px;
+  margin-top: 10px;
+}
