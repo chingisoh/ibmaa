@@ -4,6 +4,6 @@
 Welcome to our Math website!
 
 
-### Interactive Explorations
+[Interactive Explorations](interactive_explorations/index.md)
 
-### IB Topical Questions and Solutions
+[IB Topical Questions and Solutions](ib_topical/index.md)

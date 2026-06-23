@@ -49,22 +49,3 @@ SOLUTION HERE
 <span class="red">Important step</span>
 <span class="blue">Key idea</span>
 <span class="highlight">Exam tip</span>
-
-%%%% Insert picture
-<img src="/images/qn1.png" style="max-width:400px;">
-
-%%%% Hint button
-
-<button class="ib-button hint-button"
-        onclick="toggleHint('hint1', this, 'Show Questions', 'Hide Questions')">
-  Guiding Questions
-</button>
-
-<div id="hint1" class="hint" style="display:none; margin-top:10px;">
-  <b>THINK!</b>
-
-  Try using the product rule:
-
-  \( (uv)' = u'v + uv' \)
-</div>
-

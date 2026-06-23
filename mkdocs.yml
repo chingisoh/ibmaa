@@ -6,14 +6,14 @@ theme:
 nav:
   - Home: index.md
   - Interactive Explorations:
-    - Home: interactive_explorations/index.md
+    - Explorations Home: interactive_explorations/index.md
     - Geometry:
-        - Home: interactive_explorations/geom/index.md
-        - Trigonometric Graphs from the Unit Circle: interactive_explorations/geom/trig_graph_circle.md
+        - Geometry Explorations Home: interactive_explorations/geom/index.md
+        - Sine Graph: interactive_explorations/geom/sine_cos.md
   - IB Topical Questions and Solutions: 
     - Home: ib_topical/index.md
     - SL MAA: 
-      - Home: ib_topical/sl_topical/index.md
+      - SL MAA Home: ib_topical/sl_topical/number/index.md
       - Number and Algebra: ib_topical/sl_topical/number/index.md
       - Functions and Graphs: 
         - Home: ib_topical/sl_topical/function/index.md
@@ -21,13 +21,15 @@ nav:
       - Geometry and Trigonometry: ib_topical/sl_topical/geometry/index.md
       - Calculus: ib_topical/sl_topical/calc/index.md
       - Probability and Statistics: ib_topical/sl_topical/stats/index.md
+      - Back to Home: index.md
     - HL MAA: 
-      - Home: ib_topical/hl_topical/index.md
+      - HL MAA Home: ib_topical/hl_topical/index.md
       - Number and Algebra: ib_topical/hl_topical/number/index.md
       - Functions and Graphs: ib_topical/hl_topical/function/index.md
       - Geometry and Trigonometry: ib_topical/hl_topical/geometry/index.md
       - Calculus: ib_topical/hl_topical/calc/index.md
       - Probability and Statistics: ib_topical/hl_topical/stats/index.md
+      - Back to Home: index.md
 
 markdown_extensions:
   - pymdownx.arithmatex:

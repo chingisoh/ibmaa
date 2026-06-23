@@ -64,7 +64,6 @@ Let \( y=e^{x+3}\)<br>
 
 <span class="blue"> CONCEPT! Logarithms and exponentials are inverse functions.</span><br>
 
-
 </div>
 
 
