@@ -16,14 +16,14 @@ nav:
       - Home: ib_topical/sl_topical/index.md
       - Number and Algebra: ib_topical/sl_topical/number/index.md
       - Functions and Graphs: ib_topical/sl_topical/function/index.md
-      - Geometry and Trigonometry: ib_topical/sl_topical/geom/index.md
+      - Geometry and Trigonometry: ib_topical/sl_topical/geometry/index.md
       - Calculus: ib_topical/sl_topical/calc/index.md
       - Probability and Statistics: ib_topical/sl_topical/stats/index.md
     - HL MAA: 
       - Home: ib_topical/hl_topical/index.md
       - Number and Algebra: ib_topical/hl_topical/number/index.md
       - Functions and Graphs: ib_topical/hl_topical/function/index.md
-      - Geometry and Trigonometry: ib_topical/hl_topical/geom/index.md
+      - Geometry and Trigonometry: ib_topical/hl_topical/geometry/index.md
       - Calculus: ib_topical/hl_topical/calc/index.md
       - Probability and Statistics: ib_topical/hl_topical/stats/index.md
 

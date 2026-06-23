@@ -6,13 +6,13 @@ It is recommended that you try the questions before looking at the solutions.
 
 The questions are organised according to the following strands:
 
-[1. Number and Algebra](number/)
+[1. Number and Algebra](number/index.md)
 
-[2. Functions and Graphs](function/)
+[2. Functions and Graphs](function/index.md)
 
-[3. Geometry and Trigonometry](geometry/)
+[3. Geometry and Trigonometry](geometry/index.md)
 
-[4. Calculus](calc/)
+[4. Calculus](calc/index.md)
 
-[5. Statistics and Probability](stats/)
+[5. Statistics and Probability](stats/index.md)
 
