@@ -8,7 +8,7 @@ The questions are organised according to the following strands:
 
 [1. Number and Algebra](number/index.md)
 
-[2. Functions and Graphs](function/basic.md)
+[2. Functions and Graphs](function/index.md)
 
 [3. Geometry and Trigonometry](geometry/index.md)
 
