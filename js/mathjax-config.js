@@ -12,7 +12,7 @@ window.MathJax = {
       Var: "\\mathrm{Var}",
 
       // formatting helpers
-      Brac: ["\\left( {#1} \\right)", 1],
+      Brac: ["\\left(#1\\right)", 1],
       abs: ["\\left| {#1} \\right|", 1],
 
       // trig / constants

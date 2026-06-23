@@ -1,0 +1,51 @@
+%%%% To Insert Images
+![Unit Circle](../images/unit_circle.png)
+
+%%%% Questions
+<div class="question">
+
+TEXT HERE
+
+<div class="q-part">
+  <span class="label">(a)</span>
+  Solve the equation \(x^2 - 5x + 6 = 0\)
+
+  <div class="subpart">
+    <span class="sublabel">(i)</span>
+    Factorise the expression.
+  </div>
+
+  <div class="subpart">
+    <span class="sublabel">(ii)</span>
+    Hence solve the equation.
+  </div>
+
+</div>
+
+<div class="q-part">
+  <span class="label">(b)</span>
+  Find the sum of roots.
+</div>
+
+</div>
+
+%%% To Insert Solution
+<button class="ib-button" onclick="toggleSolution('sol1', this)">
+Show Solution
+</button>
+
+<div id="sol1" class="solution">
+<b>Solution:</b>
+
+SOLUTION HERE
+</div>
+
+%%% To Hyperlink
+
+[TEXT HERE](number/index.md)
+
+%%%% Change color and highlight
+
+<span class="red">Important step</span>
+<span class="blue">Key idea</span>
+<span class="highlight">Exam tip</span>

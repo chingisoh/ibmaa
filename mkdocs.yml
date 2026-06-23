@@ -15,7 +15,9 @@ nav:
     - SL MAA: 
       - Home: ib_topical/sl_topical/index.md
       - Number and Algebra: ib_topical/sl_topical/number/index.md
-      - Functions and Graphs: ib_topical/sl_topical/function/index.md
+      - Functions and Graphs: 
+        - Home: ib_topical/sl_topical/function/index.md
+        - Basic Questions: ib_topical/sl_topical/function/basic.md
       - Geometry and Trigonometry: ib_topical/sl_topical/geometry/index.md
       - Calculus: ib_topical/sl_topical/calc/index.md
       - Probability and Statistics: ib_topical/sl_topical/stats/index.md
@@ -32,8 +34,8 @@ markdown_extensions:
       generic: true
 
 extra_javascript:
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - js/mathjax-config.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - javascripts/extra.js
 
 extra_css:
