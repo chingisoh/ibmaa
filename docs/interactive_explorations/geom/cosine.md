@@ -1,8 +1,8 @@
-# Deriving the Sine Graph from the Unit Circle
+# Deriving the Cosine Graph from the Unit Circle
 
-This exploration investigates how the graphs of the sine functions arise from the unit circle.
+This exploration investigates how the graphs of the cosine functions arise from the unit circle.
 
-Increase the size of the angle \(s\) using the first button on the graph. When you think you have an idea of what the graph of \(y=\sin x\) looks like, click on the second button to reveal the graph.
+Increase the size of the angle \(s\) using the first button on the graph. When you think you have an idea of what the graph of \(y=\cos x\) looks like, click on the second button to reveal the graph.
 
 <button class="ib-button hint-button"
         onclick="toggleHint('hint1', this, 'Show Questions', 'Hide Questions')">
