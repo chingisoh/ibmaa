@@ -2,7 +2,7 @@
 COPY THIS CHUNK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
 
-# Functions - Basic Concepts
+# Functions - Quadratic Functions and Graphs
 
 [Back to <b> Functions and Graphs </b>](index.md)
 
@@ -18,10 +18,13 @@ COPY THIS CHUNK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <div id="skills-checklist">
 
 <ul>
-  <li><input type="checkbox" id="funcBasicExist"> I can determine if a given relation is a function either algebraically or using a vertical line test.</li>
-  <li><input type="checkbox" id="funcBasicRule"> I can evaluate the value of a function at a given point.</li>
-  <li><input type="checkbox" id="funcBasicDomain"> I can find the domain and range of a given function.</li>
-  <li><input type="checkbox" id="funcInverse"> I can explain what an inverse function is to my friend.</li>
+  <li><input type="checkbox" id="funcQuadVertex"> I can determine the vertex of a given quadratic function.</li>
+  <li><input type="checkbox" id="funcQuadAxisSymm"> I can determine the axis of symmetry of a given quadratic function.</li>
+  <li><input type="checkbox" id="funcAxialIntQuad"> I can find the axial intercepts of a given quadratic function.</li>
+  <li><input type="checkbox" id="funcQuadConcavity"> I can determine the concavity of a given quadratic function.</li>
+  <li><input type="checkbox" id="funcQuadSketch"> I can sketch the graph of a given quadratic function, from the forms \(y=ax^2+bx+c\), \(y=a(x-h)^2+k\) and \(y=a(x-p)(x-q)\).</li>
+  <li><input type="checkbox" id="funcQuadDeduceEqn"> I can find the equation of a quadratic function based on a sketch of its graph.</li>
+
 </ul>
 
 </div>
@@ -67,6 +70,5 @@ updateProgress();
 <!--
 UNTIL HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
-
 
 

@@ -14,14 +14,13 @@ nav:
           - The Sine Graph: interactive_explorations/geom/sine_cos.md
           - The Cosine Graph: interactive_explorations/geom/cosine.md
           - Modelling a Ferris Wheel: interactive_explorations/geom/ferris.md
-  - IB Topical Questions and Solutions: 
+  - IB Topical Review and Examples: 
     - Home: ib_topical/index.md
     - SL MAA: 
-      - SL MAA Home: ib_topical/sl_topical/number/index.md
+      - SL MAA Home: ib_topical/sl_topical/index.md
       - Number and Algebra: ib_topical/sl_topical/number/index.md
       - Functions and Graphs: 
-        - Home: ib_topical/sl_topical/function/index.md
-        - Basic Questions: ib_topical/sl_topical/function/basic.md
+        - Topics Covered: ib_topical/sl_topical/function/index.md
       - Geometry and Trigonometry: ib_topical/sl_topical/geometry/index.md
       - Calculus: ib_topical/sl_topical/calc/index.md
       - Probability and Statistics: ib_topical/sl_topical/stats/index.md

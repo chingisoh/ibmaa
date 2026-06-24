@@ -1,10 +1,10 @@
-# SL MAA Topical Questions and Solutions
+# SL MAA Topical Review and Examples
 
-Here, we look at selected questions from the IB exams, organised by topic.
+In this part of the website, we do a review of key concepts and ideas from the SL MAA curriculum. 
 
-It is recommended that you try the questions before looking at the solutions.
+When using the worked examples, please attempt the questions on your own before looking at the solutions. 
 
-The questions are organised according to the following strands:
+The content is organised according to the following strands:
 
 [1. Number and Algebra](number/index.md)
 

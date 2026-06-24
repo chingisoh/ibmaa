@@ -2,7 +2,7 @@
 COPY THIS CHUNK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
 
-# Functions - Basic Concepts
+# Functions - Quadratic Equations and Nature of Roots
 
 [Back to <b> Functions and Graphs </b>](index.md)
 
@@ -18,10 +18,11 @@ COPY THIS CHUNK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <div id="skills-checklist">
 
 <ul>
-  <li><input type="checkbox" id="funcBasicExist"> I can determine if a given relation is a function either algebraically or using a vertical line test.</li>
-  <li><input type="checkbox" id="funcBasicRule"> I can evaluate the value of a function at a given point.</li>
-  <li><input type="checkbox" id="funcBasicDomain"> I can find the domain and range of a given function.</li>
-  <li><input type="checkbox" id="funcInverse"> I can explain what an inverse function is to my friend.</li>
+  <li><input type="checkbox" id="funcQuadFactor"> I can solve a quadratic equation by factorisation.</li>
+  <li><input type="checkbox" id="funcQuadFormula"> I can solve a quadratic equation using the quadratic formula.</li>
+  <li><input type="checkbox" id="funcQuadCompleteSq"> I can solve a quadratic equation by completing the square.</li>
+  <li><input type="checkbox" id="funcQuadNatureOfRoots"> I can use the discriminant to determine the nature of roots of a given quadratic equation.</li>
+  <li><input type="checkbox" id="funcQuadNatureOfRoots"> I can deduce the possible values of the discriminant based on the nature of roots of a given quadratic equation.</li>
 </ul>
 
 </div>
@@ -67,6 +68,5 @@ updateProgress();
 <!--
 UNTIL HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
-
 
 

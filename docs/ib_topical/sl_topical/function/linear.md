@@ -2,7 +2,7 @@
 COPY THIS CHUNK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
 
-# Functions - Basic Concepts
+# Functions - Linear Functions and Graphs
 
 [Back to <b> Functions and Graphs </b>](index.md)
 
@@ -18,10 +18,11 @@ COPY THIS CHUNK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <div id="skills-checklist">
 
 <ul>
-  <li><input type="checkbox" id="funcBasicExist"> I can determine if a given relation is a function either algebraically or using a vertical line test.</li>
-  <li><input type="checkbox" id="funcBasicRule"> I can evaluate the value of a function at a given point.</li>
-  <li><input type="checkbox" id="funcBasicDomain"> I can find the domain and range of a given function.</li>
-  <li><input type="checkbox" id="funcInverse"> I can explain what an inverse function is to my friend.</li>
+  <li><input type="checkbox" id="funcGrad"> I can find the gradient of a line using (i) its equation, and (ii) two points on the line.</li>
+  <li><input type="checkbox" id="funcParallelLine"> I can state the relationship between the gradients of a pair of parallel lines.</li>
+  <li><input type="checkbox" id="funcPerpLine"> I can state the relationship between the gradients of a pair of perpendicular lines.</li>
+  <li><input type="checkbox" id="funcLinEqn"> I can find the equation of a straight line in <b> gradient-intercept form </b> \((y=mx+c)\), <b> general form </b> \((ax+by+c=0)\), and <b> point-slope form </b> \((y-y_1=m(x-x_1)\).</li>
+  <li><input type="checkbox" id="funcPerpBisect"> I can find the equation of the perpendicular bisector of a line segment.</li>
 </ul>
 
 </div>
@@ -67,6 +68,8 @@ updateProgress();
 <!--
 UNTIL HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
+
+## Introduction
 
 
 

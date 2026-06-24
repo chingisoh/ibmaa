@@ -2,7 +2,7 @@
 COPY THIS CHUNK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
 
-# Functions - Basic Concepts
+# Functions - Composite Functions
 
 [Back to <b> Functions and Graphs </b>](index.md)
 
@@ -18,11 +18,9 @@ COPY THIS CHUNK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <div id="skills-checklist">
 
 <ul>
-  <li><input type="checkbox" id="funcBasicExist"> I can determine if a given relation is a function either algebraically or using a vertical line test.</li>
-  <li><input type="checkbox" id="funcBasicRule"> I can evaluate the value of a function at a given point.</li>
-  <li><input type="checkbox" id="funcBasicDomain"> I can find the domain and range of a given function.</li>
-  <li><input type="checkbox" id="funcInverse"> I can explain what an inverse function is to my friend.</li>
-</ul>
+  <li><input type="checkbox" id="funcComposeRule"> I can find the expression for \((f\circ g)\) given the functions \(f\) and \(g\).</li>
+  <li><input type="checkbox" id="funcComposeRule"> I can state the domain of the composite function \((f\circ g)\).</li>
+  </ul>
 
 </div>
 <script>
@@ -67,6 +65,3 @@ updateProgress();
 <!--
 UNTIL HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
-
-
-

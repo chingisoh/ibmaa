@@ -2,7 +2,7 @@
 COPY THIS CHUNK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
 
-# Functions - Basic Concepts
+# Functions - GDC Skills for Graph Sketching
 
 [Back to <b> Functions and Graphs </b>](index.md)
 
@@ -18,10 +18,12 @@ COPY THIS CHUNK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <div id="skills-checklist">
 
 <ul>
-  <li><input type="checkbox" id="funcBasicExist"> I can determine if a given relation is a function either algebraically or using a vertical line test.</li>
-  <li><input type="checkbox" id="funcBasicRule"> I can evaluate the value of a function at a given point.</li>
-  <li><input type="checkbox" id="funcBasicDomain"> I can find the domain and range of a given function.</li>
-  <li><input type="checkbox" id="funcInverse"> I can explain what an inverse function is to my friend.</li>
+  <li><input type="checkbox" id="funcGDCGrid"> I can draw the graph of a function accurately on a given grid with the help of the GDC. </li>
+  <li><input type="checkbox" id="funcGDCIntercept"> I can find the intercepts of a graph using the GDC. </li>
+  <li><input type="checkbox" id="funcGDCAsymp"> I can deduce the asymptotes of a graph with the help of the GDC. </li>
+  <li><input type="checkbox" id="funcGDCMaxMin"> I can find the coordinates of maximum and minimum points of a graph using the GDC. </li>
+  <li><input type="checkbox" id="funcGDCIntersect"> I can find the coordinates of the points of intersection between two graphs using the GDC. </li>
+  <li><input type="checkbox" id="funcGDCSolvers"> I can solve equations using (i) graphical methods, (ii) polynomial solver, and (iii) system of linear equation solver on the GDC. </li>
 </ul>
 
 </div>
@@ -67,6 +69,3 @@ updateProgress();
 <!--
 UNTIL HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
-
-
-

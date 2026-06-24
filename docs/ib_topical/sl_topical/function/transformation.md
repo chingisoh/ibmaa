@@ -2,7 +2,7 @@
 COPY THIS CHUNK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
 
-# Functions - Basic Concepts
+# Functions - Transformations of Graphs
 
 [Back to <b> Functions and Graphs </b>](index.md)
 
@@ -18,10 +18,10 @@ COPY THIS CHUNK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <div id="skills-checklist">
 
 <ul>
-  <li><input type="checkbox" id="funcBasicExist"> I can determine if a given relation is a function either algebraically or using a vertical line test.</li>
-  <li><input type="checkbox" id="funcBasicRule"> I can evaluate the value of a function at a given point.</li>
-  <li><input type="checkbox" id="funcBasicDomain"> I can find the domain and range of a given function.</li>
-  <li><input type="checkbox" id="funcInverse"> I can explain what an inverse function is to my friend.</li>
+  <li><input type="checkbox" id="funcTranslations"> I can (i) describe in words, (ii) sketch the graph, (iii) find the new equation of the graph obtained when \(y=f(x)\) undergoes the transformations \(y=f(x)+k\) and \(y=f(x+k)\).</li>
+  <li><input type="checkbox" id="funcScaling"> I can (i) describe in words, (ii) sketch the graph, (iii) find the new equation of the graph obtained when \(y=f(x)\) undergoes the transformations \(y=pf(x)\) and \(y=f(qx)\), where \(p,\;q>0\).</li>
+  <li><input type="checkbox" id="funcReflection"> I can (i) describe in words, (ii) sketch the graph, (iii) find the new equation of the graph obtained when \(y=f(x)\) undergoes the transformations \(y=-f(x)\) and \(y=f(-x)\).</li>
+  <li><input type="checkbox" id="funcCompositeTransformations"> I can solve problems involving a sequence of transformations.</li>
 </ul>
 
 </div>
@@ -67,6 +67,4 @@ updateProgress();
 <!--
 UNTIL HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->
-
-
 

@@ -1,8 +1,8 @@
-# IB Topical Questions and Solutions
+# IB Topical Review and Examples
 
 
 
-Welcome to the IB Topical Questions and Solutions section.
+Welcome to the IB Topical Review and Examples section. 
 
 
 
