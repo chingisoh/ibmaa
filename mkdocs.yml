@@ -1,7 +1,11 @@
-site_name: My Mathematics Notes
+site_name: Ms Soh's Math Room
 
 theme:
   name: material
+
+  icon:
+    admonition:
+      note: material/calculator-variant
 
 nav:
   - Home: index.md
@@ -19,8 +23,7 @@ nav:
     - SL MAA: 
       - SL MAA Home: ib_topical/sl_topical/index.md
       - Number and Algebra: ib_topical/sl_topical/number/index.md
-      - Functions and Graphs: 
-        - Topics Covered: ib_topical/sl_topical/function/index.md
+      - Functions and Graphs: ib_topical/sl_topical/function/index.md
       - Geometry and Trigonometry: ib_topical/sl_topical/geometry/index.md
       - Calculus: ib_topical/sl_topical/calc/index.md
       - Probability and Statistics: ib_topical/sl_topical/stats/index.md
@@ -32,11 +35,20 @@ nav:
       - Geometry and Trigonometry: ib_topical/hl_topical/geometry/index.md
       - Calculus: ib_topical/hl_topical/calc/index.md
       - Probability and Statistics: ib_topical/hl_topical/stats/index.md
+      - Vectors: ib_topical/hl_topical/vector/index.md
+      - Complex Numbers: ib_topical/hl_topical/complex/index.md
       - Back to Home: index.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_javascript:
   - js/mathjax-config.js

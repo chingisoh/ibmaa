@@ -16,3 +16,7 @@ The content is organised according to the following strands:
 
 [5. Statistics and Probability](stats/index.md)
 
+[6. Vectors](vector/index.md)
+
+[7. Complex Numbers](complex/index.md)
+
