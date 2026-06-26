@@ -68,3 +68,25 @@ SOLUTION HERE
   \( (uv)' = u'v + uv' \)
 </div>
 
+
+%%%%%%% Multicolumn
+
+<div class="two-column">
+
+<div>
+<img src="../images/example.png" alt="Example">
+</div>
+
+<div>
+
+### Important Idea
+
+The graph shows how the function behaves near the turning point.
+
+</div>
+
+</div>
+
+%%%%%% Formulae Book
+??? note "From the Formulae Book"
+    This should show a smile icon

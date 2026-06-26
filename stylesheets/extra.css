@@ -1,3 +1,7 @@
+body {
+  counter-reset: question;
+}
+
 .ib-button {
   background-color: #2d6cdf;
   color: white;
@@ -46,12 +50,23 @@
 ========================= */
 
 .question {
+  counter-increment: question;
+
   margin: 24px 0;
   padding: 18px;
   border: 1px solid #d9d9d9;
   border-left: 5px solid #2d6cdf;
   border-radius: 8px;
   background-color: #ffffff;
+}
+
+.question::before {
+  content: "Example " counter(question);
+  display: block;
+  font-size: 1.1em;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: #2d6cdf;
 }
 
 /* =========================
@@ -109,3 +124,21 @@ body {
 .hint-button:hover {
   background-color: #16a34a;
 }
+
+.two-column {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.two-column > div {
+    flex: 1;
+}
+
+%%%%% MOBILE ADJUSTMENTS GO HERE
+@media (max-width: 768px) {
+    .two-column {
+        flex-direction: column;
+    }
+}
+

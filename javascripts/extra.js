@@ -30,3 +30,4 @@ function toggleHint(id, btn) {
     btn.textContent = "Show Content";
   }
 }
+
